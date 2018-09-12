@@ -1,0 +1,44 @@
+[
+  {
+    "contractId" :"01",
+    "value":10000,
+    "contractDescription":"generall purpose contract",
+    "exporterId":"1",
+    "customId":"2",
+    "insuranceId":"3",
+    "importerId":"4",
+    "importerBankId":"5",
+    "exporterCheck":true,
+    "importerCheck":false,
+    "customCheck":false,
+    "insuranceCheck":false,
+    "importerBankCheck":false,
+    "completion":false,
+    "pointer":"3"
+    
+  },
+    {
+    "contractId" :"02",
+    "value":10000,
+    "contractDescription":"generall purpose contract",
+    "exporterId":"1",
+    "customId":"2",
+    "insuranceId":"3",
+    "importerId":"4",
+    "importerBankId":"5",
+    "exporterCheck":true,
+    "importerCheck":false,
+    "customCheck":false,
+    "insuranceCheck":false,
+    "importerBankCheck":false,
+    "completion":false,
+    "pointer":"3"
+    
+  }
+  
+  
+  
+  
+  
+  ]
+
